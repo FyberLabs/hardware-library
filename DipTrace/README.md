@@ -1,0 +1,1 @@
+These are Fyber Lab's DipTrace based patterns and components.  FyberLabs.eli is the main component library.  All separate pattern .lib libraries are required to complete it.  Separate .eli libs for components related to the patterns are also available.
